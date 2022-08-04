@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidStudioProjects/buet_hackathon_22/app/src/main/res/drawable/button_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/buet_hackathon_22/app/src/main/res/drawable/round_active.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/buet_hackathon_22/app/src/main/res/drawable/round_default.xml" value="0.21614583333333334" />
+        <entry key="..\:/AndroidStudioProjects/buet_hackathon_22/app/src/main/res/layout/activity_text_to_speech.xml" value="0.2" />
       </map>
     </option>
   </component>
