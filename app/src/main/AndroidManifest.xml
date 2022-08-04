@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Buet_hackathon_22">
         <activity
-            android:name=".textToSpeech.TextToSpeechActivity"
+            android:name=".textToSpeech.TextToSPeech2Activity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,10 +21,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".textToSpeech.TextToSpeechActivity"
             android:exported="true">
 
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"></activity>
     </application>
 
 </manifest>
